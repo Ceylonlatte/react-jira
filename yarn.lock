@@ -1187,7 +1187,7 @@
 
 "@commitlint/cli@^12.1.4":
   version "12.1.4"
-  resolved "http://npm.meitu-int.com/@commitlint%2fcli/-/cli-12.1.4.tgz#af4d9dd3c0122c7b39a61fa1cd2abbad0422dbe0"
+  resolved "https://registry.nlark.com/@commitlint/cli/download/@commitlint/cli-12.1.4.tgz#af4d9dd3c0122c7b39a61fa1cd2abbad0422dbe0"
   integrity sha1-r02d08ASLHs5ph+hzSq7rQQi2+A=
   dependencies:
     "@commitlint/format" "^12.1.4"
@@ -1202,7 +1202,7 @@
 
 "@commitlint/config-conventional@^12.1.4":
   version "12.1.4"
-  resolved "http://npm.meitu-int.com/@commitlint%2fconfig-conventional/-/config-conventional-12.1.4.tgz#95bbab622f117a8a3e49f95917b08655040c66a8"
+  resolved "https://registry.nlark.com/@commitlint/config-conventional/download/@commitlint/config-conventional-12.1.4.tgz#95bbab622f117a8a3e49f95917b08655040c66a8"
   integrity sha1-lburYi8Reoo+SflZF7CGVQQMZqg=
   dependencies:
     conventional-changelog-conventionalcommits "^4.3.1"
